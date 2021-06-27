@@ -4,6 +4,7 @@ a front-end webpage for a competition
 References and images taken from these websites:
 
 https://wallpapercave.com/wp/wp8480322.jpg
+
 https://www.esports.com/en/gaming
 https://wallpapercave.com/wp/wp6475677.jpg
 https://www.esports.com/en/gaming
@@ -20,12 +21,12 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.streamloots.com%2Fnikkitta
 https://www.esportsguide.com/valorant/tournament/2021-vct-latin-america-south-stage-3-challengers-1
 
 
-How are site is relevant
+How are site is relevant ->
 This site is related to an e-sport community which provides blog comprising of upcoming gaming contest, new features of the updated games, and many more. To build a gaming community for multiplayer competitive gamers.
 
-How to run the site locally
+How to run the site locally ->
 Download the complete repository and run index.html in new folder after accessing the folders.
 
 
-Css framework
+Css framework ->
 We used Bootstrap 5 to design our website. 
