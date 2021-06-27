@@ -42,8 +42,10 @@ This site is related to an e-sport community which provides blog comprising of u
 How to run the site locally ->
 
 Download the complete repository and run index.html in new folder after accessing the folders.
+WE can't deploy our website due to unknown reasons our whole code is in master branch, you can download the code from there and can see the website by opening it on VS Code.
 
 
 Css framework ->
 
 We used Bootstrap 5 to design our website. 
+
