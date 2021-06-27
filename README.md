@@ -35,7 +35,7 @@ https://www.esportsguide.com/valorant/tournament/2021-vct-latin-america-south-st
 
 
 
-How are site is relevant ->
+How is site is relevant ->
 
 This site is related to an e-sport community which provides blog comprising of upcoming gaming contest, new features of the updated games, and many more. To build a gaming community for multiplayer competitive gamers.
 
